@@ -106,10 +106,14 @@ class BinanceRest:
             traer_price =  self.client.ticker_price(symbol=symbol)
             price = traer_price['price']
 
-        else:
+        elif symbols!=None:
 
             price =  self.client.ticker_price(symbols=symbols)
 
+        else:
+
+            price = self.client.ticker_price()
+        
         return price
     
     def get_book_ticker(self,symbol: str = None , symbols: list = None):

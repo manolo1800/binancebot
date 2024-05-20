@@ -1,0 +1,6 @@
+¿Qué es el trading?
+
+El trading es un concepto económico fundamental que conlleva la compra y venta de activos. Éstos pueden ser bienes y servicios, en los que el comprador remunera al vendedor. Mientras que en otro casos, la transacción puede consistir en un intercambio de bienes y servicios entre las partes que intervienen en el trade.
+
+En el contexto de los mercados financieros, los activos tradeados son denominados instrumentos financieros. Éstos pueden ser valores, bonos, pares de divisas del mercado Forex, opciones, futuros, productos con margen, criptomonedas y muchos otros. Si estos términos son nuevos para ti, no te preocupes –más adelante, en este artículo, los analizaremos todos.
+El término "trading" habitualmente se utiliza para referirse al trading a corto plazo -en el que los traders, de forma activa, entran y salen de sus posiciones en intervalos de tiempo relativamente cortos. Sin embargo, esta es una premisa un poco engañosa. De hecho, el trading puede aludir a un amplio rango de estrategias diferentes, como por ejemplo el "day trading", "swing trading", trading de tendencia y muchos otros. Pero no te preocupes, ya que posteriormente los abordaremos todos de manera más detallada.
